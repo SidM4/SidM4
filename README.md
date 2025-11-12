@@ -20,7 +20,7 @@
 ### 🌐 Projects
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| 🧩 [i3fy](https://github.com/sidmurthy/i3fy) | Educational hub for coders — helping students learn and explore coding concepts interactively | React, Supabase, JS |
+| 🧩 [I3FY]([https://github.com/SidM4/i3fy](https://github.com/SidM4/I3FY---Interactive-Innovative-Information-For-You-)) | Educational hub for coders — helping students learn and explore coding concepts interactively | React, Supabase, JS |
 | 💼 Z10 Studios | Startup focused on helping small and medium businesses strengthen their digital footprint | React, Tailwind, Node.js |
 
 
